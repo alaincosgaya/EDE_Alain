@@ -18,6 +18,7 @@ public class PruebaGit {
 	 * @param var2
 	 * @return
 	 */
+	//Prueba commit 2
 	public boolean nombreMetodo (int var1, boolean var2) {
 	return false;}
 
